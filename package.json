@@ -1,0 +1,20 @@
+{
+  "name": "childrens-catechism",
+  "version": "1.0.0",
+  "description": "All questions and answers in the Catechism for Young Children",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanMcP/childrens-catechism.git"
+  },
+  "keywords": [],
+  "author": "Sean McPherson <sean@seanmcp.com> (https://seanmcp.com)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/SeanMcP/childrens-catechism/issues"
+  },
+  "homepage": "https://github.com/SeanMcP/childrens-catechism#readme"
+}
