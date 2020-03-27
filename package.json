@@ -1,6 +1,6 @@
 {
   "name": "childrens-catechism",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "All questions and answers in the Catechism for Young Children",
   "main": "lib/cc.js",
   "files": [
